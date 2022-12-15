@@ -1,4 +1,4 @@
-# DeepRainE
+# DeepPreNCE
 
 1. install CONDA virtual environment.
 ```
