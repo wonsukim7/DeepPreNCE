@@ -2,10 +2,9 @@
 
 1. install CONDA virtual environment.
 
-
 '''
-    $ conda env create -f conda_env_venv2.yaml
-    $ conda env create -f cond_env_ncl.yaml
+$ conda env create -f conda_env_venv2.yaml
+$ conda env create -f cond_env_ncl.yaml
 '''
 
 2. edit main script.
@@ -16,10 +15,9 @@
 
 3. run main script.
 
-
 '''
-    $ ./main_run_def.bash   # for default run
-    $ ./main_run_multi.bash # for multi-input run
+$ ./main_run_def.bash   # for default run
+$ ./main_run_multi.bash # for multi-input run
 '''
 
 - Files
