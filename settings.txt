@@ -1,0 +1,12 @@
+exp_name=EXP_NAME
+batch_size=BATCH_SIZE
+optimizer=OPTIMIZER
+loss=LOSS
+syear_fit=SYEAR_FIT
+eyear_fit=EYEAR_FIT
+sym_exc_fit=SYM_EXC_FIT
+eym_exc_fit=EYM_EXC_FIT
+syear_pred=SYEAR_PRED
+eyear_pred=EYEAR_PRED
+sym_exc_pred=SYM_EXC_PRED
+eym_exc_pred=EYM_EXC_PRED
